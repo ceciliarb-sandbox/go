@@ -1,0 +1,7 @@
+// package ceasarcipher
+
+// https://api.codenation.dev/v1/challenge/dev-ps/submit-solution?token=SEU_TOKEN
+
+// jsonData := map[string]string{"firstname": "Nic", "lastname": "Raboy"}
+// jsonValue, _ := json.Marshal(jsonData)
+// response, err = http.Post("https://httpbin.org/post", "application/json", bytes.NewBuffer(jsonValue))
